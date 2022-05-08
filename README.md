@@ -25,6 +25,9 @@ This project contains some of the very basic codes that we commonly use in pytho
       <li><a href="https://github.com/Sidhus234/Python-Basics/tree/main/Visualization%20and%20Analysis%20with%20Pandas%20and%20Matplotlib"><b>Visualization and Analysis with Pandas and Matplotlib: </b></a> Analyze data and create different charts using Pandas and Matplotlib.</li>
       <li><a href="https://github.com/Sidhus234/Python-Basics/tree/main/simple_website_with_flask"><b>Simple Website with Flask: </b></a> This folder covers details on how to build a simple website using python and deploy it on pythonanywhere.com</li>
       <li><a href="https://github.com/Sidhus234/Python-Basics/tree/main/GUI%20Tkinter"><b>GUI Tkinter: </b></a>This folder shows how to build a simple GUI app using Tkinter library in Python.</li>
+      <li><a href="https://github.com/Sidhus234/Python-Basics/tree/main/Database"><b>Databases: </b></a>This folder shows how to work with sqlite and postgresql in python.</li>
+      <li><a href="https://github.com/Sidhus234/Python-Basics/tree/main/oop"><b>OOP: </b></a>This folder covers some basics of OOP.</li>
+      <li><a href="https://github.com/Sidhus234/Python-Basics/tree/main/web%20scrapping%20with%20python"><b>Web Scraping with Python: </b></a>This folder shows how to use BeautifulSoup to scrape the internet for information.</li>
 </ol>
       
 <p>All data sources are provided in the relevant folder. To run the codes, just download the repo and run the required codes. All folder references are relative, and all codes should smoothly.</p>
