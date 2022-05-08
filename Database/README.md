@@ -8,4 +8,4 @@ Steps to work with sqlite database.
 5. Close the connection
 
 
-# Postgresql: Install on your laptop. Dowload from https://www.postgresql.org/download/ by selecting your OS
+Postgresql: Install on your laptop. Dowload from https://www.postgresql.org/download/ by selecting your OS
